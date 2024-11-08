@@ -16,8 +16,8 @@ query(v).
 
 ### Descrição
 
-    Evidência: Definimos que a condição da rua é snow_covered (coberta de neve), o que afeta o cálculo das probabilidades no modelo.
-    Consulta: A consulta pede a probabilidade de que V (dínamo mostra tensão) seja verdadeiro, dada a condição da rua especificada.
+- Evidência: Definimos que a condição da rua é snow_covered (coberta de neve), o que afeta o cálculo das probabilidades no modelo.
+- Consulta: A consulta pede a probabilidade de que V (dínamo mostra tensão) seja verdadeiro, dada a condição da rua especificada.
 
 ## Objetivo
 
