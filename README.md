@@ -16,11 +16,11 @@ query(v).
 
 ### Descrição
 
-- Evidência: Definimos que a condição da rua é snow_covered (coberta de neve), o que afeta o cálculo das probabilidades no modelo.
+- Evidência: foi definido que a condição da rua é snow_covered (coberta de neve), o que afeta o cálculo das probabilidades no modelo.
 - Consulta: A consulta pede a probabilidade de que V (dínamo mostra tensão) seja verdadeiro, dada a condição da rua especificada.
 
 ## Objetivo
 
-Este código atende à questão 1(e) do trabalho, que pede para calcular a probabilidade de V ser verdadeiro com base na evidência de que a condição da rua é "coberta de neve". A implementação segue o exemplo fornecido no tutorial do ProbLog.
+Este código atende à questão 1(e) do trabalho, que pede para calcular a probabilidade de V ser verdadeiro com base na evidência de que a condição da rua é "coberta de neve". A implementação segue o exemplo fornecido no tutorial do ProbLog (https://dtai.cs.kuleuven.be/problog/tutorial/basic/02_bayes.html).
 
 
